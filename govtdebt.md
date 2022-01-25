@@ -9,3 +9,14 @@ The below graphic shows the ratio of government debt to GDP from 1995 to 2019 us
 ### Government Debt of Greece compared to the rest of the EU
 There is often discussion in the news about Greece's economic state, and its struggles to service its debt obligations.  This is especially concerning as its potential impact on the rest of the European Union, due to the economic relationships between the countries.  This chart displays Greece's debt in comparison to other EU countries (and Great Britain due to its membership in the EU during the time period discussed).
 <div class="flourish-embed flourish-slope" data-src="visualisation/8512990"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Analysis
+Each of these visualizations display government debt to GDP ratios, each emphasizes different aspects of the data and each imparts different impressions on the reader.  The first visualization draws the reader's eye to countries with high or low GDP ratios in 2019, since the data is sorted by size and only shows one year.  The second visualization emphasizes patterns in the ratio over time, as its obvious which countries remain relatively flat and which go up and down, but given the multiple rows of graphs, it is difficult to compare countries.  The last visualization emphasizes the increase in Greece's ratio in recent years, and differentiates it from other EU countries.
+
+The OECD website explains this metric this way:
+> "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of
+> government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance,
+> pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government
+> deficits."
+
+All data comes from publically available OECD data, accessed January 2022 from [the OECD website](https://data.oecd.org/gga/general-government-debt.htm)
