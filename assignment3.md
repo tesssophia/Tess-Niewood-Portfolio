@@ -25,3 +25,8 @@ He also suggested I used a pie chart.  Upon further digging I realized this was 
 
 ### First attempt at visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/8624951"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The bar chart felt like the best option in Flourish to represent proportional sizes, but unfortunately the positive test results are so rare that they're nearly imperceptible in the chart.  I also felt that the volume representation of the wireframing was more effective, that the bar chart didn't sufficiently "drown" the rare results.
+
+### Second attempt at visualization
+
