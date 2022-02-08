@@ -40,4 +40,6 @@ The bar chart felt like the best option in Flourish to represent proportional si
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
+This last visualization conveys the rarity of testing positive at all, either positive or negative.  While typically circles don't do a good job showing proportional sizes, here the intention is to show small and large, and so the exact sizes matter less and the intended message is understandable.
+I would have preferred to have separate graphs for every test, but Tableau and Flourish made this challenging, and this overall testing rate does make a more compelling statement.
+Another downside to this visualization is that it still really needs explanation to fully convey its message.  A different color scheme may help, but I played around with several options and no other options made an improvement.
