@@ -15,7 +15,7 @@ Between 2016 and 2020 State funded Medicaid covered 42% of births in the US.  St
 3. Importance of Coverage
 ![births are risky](births_risk.png)
 ![](Medicaid_Deaths.png)
-![](deaths_later.png
+![](deaths_later.png)
 
 
 
