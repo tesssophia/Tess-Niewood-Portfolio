@@ -45,3 +45,5 @@ Information on the importance of post-partum Medicaid coverage.
 
 
 ## Method and Medium
+
+I plan to use my github portfolio for my final project.  In this way I can leverage my new understanding of how to use a git-hub personal website, and keep all of my work in one place. I will create a new clean page and leverage embedding and formatting to create a comprehensible and interesting story. 
