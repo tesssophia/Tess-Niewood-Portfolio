@@ -29,7 +29,7 @@ Between 2016 and 2020 State funded Medicaid covered 42% of births in the US.  St
 [Kaiser Family Foundation](/https://www.kff.org/medicaid/issue-brief/medicaid-postpartum-coverage-extension-tracker/)
 Information about state by state coverage
 
-[CDC Natality data portal](/https://wonder.cdc.gov/natality-expanded-current.html)
+[CDC Natality data portal](wonder.cdc.gov)
 Data on Medicaid births, risk factors, maternal and fetal morbidity
 
 [Pennsylvania state data](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.health.pa.gov%2Ftopics%2FDocuments%2FDiseases%2520and%2520Conditions%2FPregnancy%2520Associated%2520Deaths%25202013-2018%2520FINAL.pdf&clen=834643&chunk=true)
