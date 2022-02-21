@@ -1,5 +1,5 @@
 # Wireframes & story boards
-I used a draft of my final project in shorthand for my user research.  That draft can be found [here](preview.shorthand.com/rHTAaLvK4tVfFzv3)
+I used a draft of my final project in shorthand for my user research.  That draft can be found [here](https://preview.shorthand.com/rHTAaLvK4tVfFzv3)
 
 # User research
 I chose the following questions to help guide my interviews (although I didn't stick to a script that strictly)
