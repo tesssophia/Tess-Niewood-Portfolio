@@ -9,7 +9,7 @@ I chose the following questions to help guide my interviews (although I didn't s
 - What’s one thing you learned?
 
 ## Interview #1
-Interviewee: 85 year old female retired teacher and public worker
+Interviewee: 85 year old female retired teacher and public housing project manager
 
 This interview was very prescriptive, and I worked hard to dig deeper into the motivations behind the suggestions.  A couple that were helpful:
 - In the pair of pie charts that show the proportion of Black mothers served by Medicaid and Private Payers the main message of the chart isn't clear
@@ -21,3 +21,20 @@ Things that worked well included:
 - The interviewee was surprised at the disproportionate number of non-rural mothers covered by Medicaid.  They had expected the sheer volume in urban areas to counteract this
 
 ## Interview #2
+Interviewee: 27 year old female working in design and social media
+
+This interview was helpful in focusing on some of the particulars - critiquing the text, typos and minor errors.  The interviewee felt that the story didn't necessarily clearly hit my 4 outlined points, so in the final I plan to make the structure a bit more clear.
+
+## Interview #3
+Interviewee: 27 year old male, lawyer
+
+Echoing the other interviewees, he confirmed the message and story were clear. The interviewee also noted that the pie charts highlighting the disproportionate share of Black women covered by Medicaid was unclear.  
+
+While Medicaid covering minorities wasn't surprising, the disparities in outcomes was.  In the final I need to find a way to highlight this more.
+
+
+# Mood board / style
+I struggled to put together a mood board for my presentation because I wanted it to have a soft, sensitive feel without being comical or childish.  I put together a couple virtual collages, but I wasn't happy with any of them.  In Shorthand's publicly available images I found the picture I used as my header in the storyboard, and it felt like the right "vibe" to me.  I chose to base my color palette on this image using the eyedropper in Flourish.
+Initially I thought to include similar flower images throughout the website, but when we shared in class my group found these distracting and confusing.  Ultimately I removed them before my user interviews, and I think the website is effective standing on its own with minimal imagery.
+
+
