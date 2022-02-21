@@ -15,4 +15,6 @@ Through this course, I hope to improve my ability to communicate my analytic fin
 [See visualizations!](/assignment3.md)
 
 ### Final Project
-[Progress update!](/FinalProject.md)
+[Progress update 1!](/FinalProject.md)
+
+[Progress update 2!](/FinalProject2.md)
