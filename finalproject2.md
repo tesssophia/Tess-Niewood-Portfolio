@@ -32,13 +32,18 @@ Echoing the other interviewees, he confirmed the message and story were clear. T
 
 While Medicaid covering minorities wasn't surprising, the disparities in outcomes was.  In the final I need to find a way to highlight this more.
 
+## Main takeaways
+Overall, I am pleased with how the story is coming along, although I definitely have actionable feedback from my interviewees and class discussions to use to enhance my graphs.
+- I plan to focus the pie charts to just be proportion of Black women, and then follow the same format for rural and risky pregnancies, so it's more clear and less burden on the reader
+- Darken the gray of the axes / labels
+- Add more clarifying text / structure.
+
 
 # Mood board / style
 I struggled to put together a mood board for my presentation because I wanted it to have a soft, sensitive feel without being comical or childish.  I put together a couple virtual collages, but I wasn't happy with any of them.  In Shorthand's publicly available images I found the picture I used as my header in the storyboard, and it felt like the right "vibe" to me.  I chose to base my color palette on this image using the eyedropper in Flourish.
 Initially I thought to include similar flower images throughout the website, but when we shared in class my group found these distracting and confusing.  Ultimately I removed them before my user interviews, and I think the website is effective standing on its own with minimal imagery.
 
-# Next steps / takeaways
-Overall, I am pleased with how the story is coming along, although I definitely have actionable feedback from my interviewees and class discussions to use to enhance my graphs.  
-On a practical level, I need to add a title, sources, flesh out the text of the story board and add my "call to action" information, which will be information about advocacy to encourage coverage expansion.
+# Next steps
+I need to add a title, sources, flesh out the text of the story board and add my "call to action" information, which will be information about advocacy to encourage coverage expansion.
 
 
