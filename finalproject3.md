@@ -1,4 +1,4 @@
-Please check out my final project website [here!](https://preview.shorthand.com/yB17IVfXfyucU3oX)
+Please check out my final project website [here!](https://carnegiemellon.shorthandstories.com/expanding-postpartum-medicaid/index.html)
 
 # Overview
 My project looks to educate the viewer about Medicaid coverage, and new legislation that will allow states to extend postpartum coverage to a full year. I focused on Pennsylvania residents, but hoped to make the report generally accessible and interesting to anyone in states that haven't yet formally extended coverage (Pennsylvania legislature has announced plans to extend coverage, but no legislation has been passed yet).
